@@ -1,7 +1,6 @@
 module.exports = {
   root: true,
   env: {
-    browser: true,
     es6: true,
     node: true,
   },
@@ -30,6 +29,4 @@ module.exports = {
     "import/no-unresolved": 0,
     "indent": ["error", 2],
   },
-   // 諸々の定義
-   root: true,
 };
